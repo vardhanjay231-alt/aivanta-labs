@@ -1,0 +1,6 @@
+{
+  "name": "Aivanta Labs",
+  "description": "Aivanta Labs - Building Useful AI for Everyone. High-performance applied intelligence systems, autonomous workflow engines, and accessible foundation tooling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
